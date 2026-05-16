@@ -1,0 +1,21 @@
+LICENSE
+
+3D Models Asset Pack
+Copyright (c) 2026 PensamientoAzul
+
+License Type: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+You are free to:
+- Use these assets in personal and commercial projects.
+- Modify and adapt the models.
+- Include them in video games and interactive media.
+
+Under the following conditions:
+- Attribution is required. You must give appropriate credit to the author.
+- You may not redistribute or resell these assets as standalone assets.
+
+Author:
+PensamientoAzul
+
+Source:
+https://pensamientoazul.itch.io
